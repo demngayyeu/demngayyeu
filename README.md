@@ -1,8 +1,8 @@
 <h1 align="center"> Hi <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">, I'm MạnhG </h1>
 <h3 align="center"> Developer from Vietnames</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manhkhac&color=ff69b4" alt="manhkhac" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=demngayyeu&color=ff69b4" alt="demngayyeu" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=manhkhac&column=8&theme=gruvbox&no-frame=true"/></a> 
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=demngayyeu&column=8&theme=gruvbox&no-frame=true"/></a> 
 </p>
 <br>
 
@@ -23,18 +23,18 @@
 
 # Github Stats
 
-![](http://github-readme-streak-stats.herokuapp.com?user=manhkhac&theme=neon-palenight)
-![](https://github-readme-stats.vercel.app/api?username=manhkhac&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+![](http://github-readme-streak-stats.herokuapp.com?user=demngayyeu&theme=neon-palenight)
+![](https://github-readme-stats.vercel.app/api?username=demngayyeu&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
 
 # 📖 Top Langs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manhkhac&text_color=daf7dc&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demngayyeu&text_color=daf7dc&bg_color=151515)
 # 🤝🏻 Connect with Me
 <p align="center">
 &nbsp; <a href="https://twitter.com/nguyenmanh" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="100" /></a>  
 &nbsp; <a href="https://www.instagram.com/manhklove1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a>  
-&nbsp; <a href="https://github.com/manhkhac" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
+&nbsp; <a href="https://github.com/demngayyeu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
 &nbsp; <a href="https://www.facebook.com/manhict" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
-&nbsp; <a href="https://t.me/manhkhac" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/telegram-app.png"  width="97" /></a>
+&nbsp; <a href="https://t.me/demngayyeu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/telegram-app.png"  width="97" /></a>
 &nbsp; <a href="mailto:nguyenmanhict@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
 </p>
